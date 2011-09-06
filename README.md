@@ -1,6 +1,6 @@
 Spider
 =======
-Simple Web crawler.
+Simple Web crawler written in Java.
 
 Building
 ---------
